@@ -121,6 +121,7 @@
                 default:
                     Console.WriteLine("Invalid choice");
                     break;
+
             }
         } while (choice != 3);
 
